@@ -7,3 +7,5 @@ I used requests (http://docs.python-requests.org/en/master/) to fetch Mahatma Ga
 
 A video of the demo can be found on my LinkedIn profile: https://www.linkedin.com/feed/update/urn:li:activity:6435514406712463361/
 
+A blog post detailing the process can be found here: https://medium.com/@Imaadmkhan1/celebrating-indias-independence-day-with-mahatma-gandhi-and-data-science-15e0b61b9cfa
+
